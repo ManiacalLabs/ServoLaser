@@ -1,3 +1,5 @@
+// requires ATTinyCore: https://github.com/SpenceKonde/ATTinyCore
+// Designed for the ATTinyX5
 #include <Servo.h>
 
 #define ADJ_IN A1 // D2
